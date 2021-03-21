@@ -1,4 +1,4 @@
-- 👋 Hi 😃, I’m Uyiosa Akpasubi @uyiosaakpasubi
+- 👋 Hi 😃, I’m Uyiosa Akpasubi, a project manager and data analyst  @uyiosaakpasubi
 - 👀 I’m interested in Data analysis and data science
 - 🌱 I’m currently learning SQL and Python for both analyst and developer roles and open to learning even more
 - 💞️ I’m looking to collaborate any open source data science projects. I am quite flixible with SQL
